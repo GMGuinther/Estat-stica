@@ -1,2 +1,0 @@
-# Estat-stica
-Estatística R
